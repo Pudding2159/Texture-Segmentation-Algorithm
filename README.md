@@ -7,17 +7,13 @@
 This project includes algorithms for image segmentation using a combination of image processing approaches and machine learning techniques. Key methods involve KMeans clustering and the watershed algorithm.
 
 ## Requirements
-- Python 3.x
+- Python 3
 - OpenCV
 - scikit-image
 - scikit-learn
 - NumPy
 - Matplotlib
 
-## Installation
-Ensure you have Python 3.x installed, then install the required libraries using pip:
-
- 
 
 ## Segmentation Algorithm
 The segmentation algorithm follows these steps:
