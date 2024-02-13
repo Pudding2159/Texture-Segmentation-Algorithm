@@ -17,7 +17,7 @@ This project includes algorithms for image segmentation using a combination of i
 ## Installation
 Ensure you have Python 3.x installed, then install the required libraries using pip:
 
-
+ 
 
 ## Segmentation Algorithm
 The segmentation algorithm follows these steps:
