@@ -6,7 +6,7 @@
 ## Description
 This project includes algorithms for image segmentation using a combination of image processing approaches and machine learning techniques. Key methods involve KMeans clustering and the watershed algorithm.
  
-## Requirements
+## Requirements 
 - Python 3
 - OpenCV
 - scikit-image
